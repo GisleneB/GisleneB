@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+html {
+    background: darksalmon;
+}
+
+h1{
+    color: rgb(206, 162, 147);
+    background-color: rgb(129, 85, 85);
+    font-size: 28px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 300px;
+    margin-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+figcaption{
+    color: rgb(238, 121, 82);
+}
+
+h2{
+    color: darksalmon;
+    background-color: dimgrey;
+    font-size: 20px;
+    width: 300px;
+    margin-left: 200px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.ingre {
+    color: darksalmon;
+    background-color: dimgrey;
+    font-size: 20px;
+    width: 300px;
+    margin-left: 200px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul{
+    color: dimgray;
+}
+li{
+    color: rgb(105, 41, 41);
+    line-height: 26px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+li, p {
+    font-size: 16px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.info{
+    color: darksalmon;
+    background-color: dimgrey;
+    color: darksalmon;
+    background-color: dimgrey;
+    font-size: 20px;
+    width: 300px;
+    margin-left: 200px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p {
+     color:rgb(105, 41, 41);
+     color: rgb(105, 41, 41);
+}
+footer {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+figcaption{
+    text-align: right;
+}
+footer, figcaption{
+    font-size: 12px;
+}
+.info{
+    color: pink;
+    
+ }
+ .image{
+     width: 100%;
+     height: 200px;
+     object-fit: cover;
+
+ }
+#home {
+    width: 700px;
+    background: white;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+ 
